@@ -4,6 +4,7 @@
 ![Swift](https://img.shields.io/badge/Swift-5-orange.svg)
 
 Rx MVVM を CocoaMVC のサンプルをベースにより簡素に記述。
+（ ViewModel を導入できていないため、まだ Rx MV ）
 
 [iOS アプリ設計パターン入門](https://github.com/peaks-cc/iOS_architecture_samplecode)
 
